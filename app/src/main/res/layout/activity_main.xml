@@ -7,7 +7,7 @@
     <fragment
         android:id="@+id/left_fragment"
         android:name="com.example.xufeng.fragmenttest.LeftFragment"
-        android:layout_width="5dp"
+        android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"
         tools:layout="@layout/left_fragment" />
